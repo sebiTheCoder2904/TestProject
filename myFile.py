@@ -5,3 +5,6 @@ class MyClass:
 
 
 myClass = MyClass()
+
+def mySupperOperation(parameter: str) -> None:
+    pass
